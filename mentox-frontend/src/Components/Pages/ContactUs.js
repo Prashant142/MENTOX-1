@@ -5,7 +5,7 @@ import { Grid, Paper } from "@material-ui/core";
 export default function ContactUs() {
   const paperStyle = {
     padding: 20,
-    height: "85vh",
+    height: "100%",
     width: 600,
     borderRadius: "20px",
     margin: "120px auto",
